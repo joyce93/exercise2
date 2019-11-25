@@ -20,6 +20,7 @@ class MainActivity : AppCompatActivity() {
         btnReset.setOnClickListener(){
             reset()
         }
+        //lk
     }
 
     private fun calBmi() {
